@@ -4,4 +4,4 @@
 ](https://rosewright.dev) 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseWrightdev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseWrightdev&langs_count=20)
