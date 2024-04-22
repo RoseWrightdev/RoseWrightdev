@@ -1,5 +1,2 @@
-### Hi, I'm Rose! 👋
-
-[RoseWright.dev
-](https://rosewright.dev) 
+l### Hi, I'm Rose! 👋
 
