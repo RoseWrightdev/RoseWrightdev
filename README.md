@@ -1,2 +1,2 @@
-l### Hi, I'm Rose! 👋
+Hi, I'm Rose! 👋
 
