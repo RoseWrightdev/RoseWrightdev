@@ -1,6 +1,6 @@
 # Hi, I'm Rose! 👋
 
-## Active Projects:
+## Active Projects
 ### Social Media App + rosewright.dev merge:
 - Launch Social-Media-App, and create an @rose profile which will serve as my personal website
 - Self-hosted on bare metal  
