@@ -4,7 +4,7 @@ I'm a rising sophomore at [the University of Minnesota Twin Cities: College of S
 
 This summer, I'm working 30 hours a week at the College of Liberal Arts on JavaScript automation in Google Workspaces, accessibility, and content editing. 
 
-I'm focusing on these projects:
+I'm focusing on contributing to and updating these projects:
 
 - Kubernetes GatewayAPI
 
