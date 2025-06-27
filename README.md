@@ -10,8 +10,6 @@ I'm focusing on contributing to and updating these projects:
 
 - Minerva CI/CD
 
-- Social Media App
-
 - Rose Programming Language
 
 - RoseWright.dev
