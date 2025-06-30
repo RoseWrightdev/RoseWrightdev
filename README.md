@@ -2,9 +2,7 @@
 
 I'm a rising sophomore at [the University of Minnesota Twin Cities: College of Science & Engineering]([url](https://cse.umn.edu/)), double majoring in Computer Science & Data Science.
 
-This summer, I'm developing at the College of Liberal Arts.
-
-- Fullstack developement in Next.js shadcn, and Google Apps Sctipt.
+This summer, I'm developing at the College of Liberal Arts. Fullstack development in Next.js w/ shadcn, and Google Apps Sctipt.
 
 
 I'm focusing on contributing to and updating these projects:
