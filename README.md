@@ -9,7 +9,7 @@ I'm focusing on contributing to and updating these projects:
 
 - Kubernetes Gateway API
 
-- Minerva CI/CD
+- Minerva.Studio CI/CD
 
 - Rose Programming Language
 
